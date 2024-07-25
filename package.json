@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "@types/node": "^18.19.41",
+    "discord.js-selfbot-v13": "^2.15.1",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
